@@ -42,6 +42,8 @@ public class App extends Application {
         stage.setWidth(1024);
         stage.setHeight(768);
         stage.show();
+        
+        // this is some test comment
 
         // create a JavaFX scene with a stack pane as the root node and add it to the scene
         StackPane stackPane = new StackPane();
