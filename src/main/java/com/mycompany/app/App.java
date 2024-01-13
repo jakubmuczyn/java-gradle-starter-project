@@ -38,9 +38,9 @@ public class App extends Application {
     public void start(Stage stage) {
 
         // set the title and size of the stage and show it
-        stage.setTitle("Software Development Academy Project");
-        stage.setWidth(1024);
-        stage.setHeight(768);
+        stage.setTitle("Esri Test Project for Git");
+        stage.setWidth(1500);
+        stage.setHeight(100900);
         stage.show();
         
         // this is some test comment
